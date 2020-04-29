@@ -1,0 +1,18 @@
+git config: This command sets the author name and email address respectively to be used with your commits.
+  Usage: git config –global user.name “[name]”
+         git config –global user.email “[email address]”
+
+git clone: This command is used to obtain a repository from an existing URL.
+  Usage: git clone [url]
+
+git add:This command adds a file to the staging area.
+  Usage: git add [file]
+  
+git commit: This command records or snapshots the file permanently in the version history.
+  Usage: git commit -m “[ Type in the commit message]”
+  
+git merge: This command merges the specified branch’s history into the current branch.
+  Usage: git merge [branch name]
+  
+git pull: This command fetches and merges changes on the remote server to your working directory.
+  Usage: git pull [Repository Link]
